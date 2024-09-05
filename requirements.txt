@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pydantic
+pandas
+xlrd
+python-dotenv
+google.generativeai
+fuzzywuzzy
+spacy
+numpy
